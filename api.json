@@ -1,0 +1,54 @@
+{
+  "category": "CRYPTID",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/teakettler",
+    "maintainers": [{"name": "Wyrdness Team", "github": "wyrdness", "role": "maintainer"}],
+    "license": {"data": "CC0-1.0", "content": "CC-BY-4.0"}
+  },
+  "phenomenon": {
+    "id": "teakettler",
+    "name": "Teakettler",
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter",
+    "tags": ["fearsome-critter", "lumberjack-folklore", "whistling", "backwards"],
+    "status": "folklore",
+    "description": {
+      "summary": "A small armored creature that makes teakettle whistling sounds while running backwards at high speed, emitting steam from its mouth.",
+      "full": "The Teakettler is a fearsome critter from American lumberjack folklore, described as a small cat-sized creature covered in armored scales. Its defining characteristics are running backwards at high speed while emitting steam and a whistling sound identical to a boiling teakettle. The creature was used to explain mysterious whistling sounds heard in forests, providing a humorous supernatural explanation for natural phenomena (wind, bird calls, or actual steam vents in some regions)."
+    },
+    "etymology": {
+      "origin": "American lumberjack folklore, late 1800s",
+      "meaning": "Named for the teakettle whistling sound it makes",
+      "first_use": "Late 19th century"
+    }
+  },
+  "classification": {
+    "taxonomy": {"category": "CRYPTID", "type": "Fearsome Critter", "subtype": "Sound-Based Folklore"}
+  },
+  "characteristics": {
+    "physical": {
+      "features": [
+        {"feature": "Size", "description": "Small, about cat-sized", "frequency": "always"},
+        {"feature": "Armor", "description": "Covered in scales", "frequency": "always"},
+        {"feature": "Steam", "description": "Emits steam from mouth", "frequency": "always"}
+      ]
+    },
+    "abilities": [
+      {"ability": "Backwards running", "description": "Always runs backwards at high speed", "frequency": "always", "evidence_level": "folklore"},
+      {"ability": "Whistling", "description": "Makes teakettle whistling sound", "frequency": "always", "evidence_level": "folklore"},
+      {"ability": "Steam emission", "description": "Emits steam while running", "frequency": "always", "evidence_level": "folklore"}
+    ],
+    "behavior": {
+      "patterns": ["Runs backwards", "Whistles like teakettle", "Emits steam", "Moves at high speed"]
+    }
+  },
+  "cultural": {
+    "folklore": {
+      "purpose": "Explain mysterious forest whistling sounds"
+    }
+  },
+  "sources": [{"id": "cox-1910", "type": "book", "title": "Fearsome Creatures of the Lumberwoods", "authors": ["William T. Cox"], "date": "1910"}]
+}
