@@ -1,13 +1,16 @@
-# Sources & References
+# Sources & References — Teakettler
+
+Bibliography compiled from `api.json`. To add a source, edit `api.json` and regenerate.
 
 ## Books
-- Cox, W.T. (1910). *Fearsome Creatures of the Lumberwoods*. Judd & Detweiler.
-- Tryon, H.H. (1939). *Fearsome Critters*. Idlewild Press.
 
-## Citation
-```
-Wyrdness Project. (2026). Teakettler. Wyrdness Paranormal Archive.
-https://github.com/wyrdness/teakettler
-```
+- William T. Cox. (1910). *Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts*. Judd & Detweiler, Washington, D.C.
+- Henry H. Tryon. (1939). *Fearsome Critters*. Idlewild Press, Cornwall, NY
+- Jorge Luis Borges, Margarita Guerrero. (1969). *El libro de los seres imaginarios*. Editorial Kier, Buenos Aires
 
-*Last Updated: 2026-01-14*
+## Websites
+
+- *Fearsome critters*. English Wikipedia. <https://en.wikipedia.org/wiki/Fearsome_critters>
+
+---
+_Auto-generated from `api.json`._
